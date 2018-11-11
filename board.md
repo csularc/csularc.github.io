@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Board Members
+title: Board
 permalink: /board/
 ---
 
-**President:** Jaimie Le
-Contact at `jaimie-please-put-email-here [at] gmail [dot] com`.
+This page is currently under construction. Please check back soon!
