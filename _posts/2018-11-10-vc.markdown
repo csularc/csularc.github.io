@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Sign up for Volunteer Connection"
+date:   2018-11-10 21:33:40 -0800
+categories: volunteer
+---
+To register for the Red Cross Volunteer Connection to track your volunteering, please click [here](https://volunteerconnection.redcross.org/?nd=intake&entry_point_id=5774&unit_id=152).
